@@ -21,3 +21,5 @@ class Dinner {
     this._dessert = dessert;
   }
 }
+
+let newdinner = new Dinner('balsamic salad', 'consomme', 'filet mignon', 'cheesecake')
