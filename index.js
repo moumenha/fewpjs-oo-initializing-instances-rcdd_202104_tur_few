@@ -22,4 +22,3 @@ class Dinner {
   }
 }
 
-let newdinner = new Dinner('balsamic salad')
